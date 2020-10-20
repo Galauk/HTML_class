@@ -1,2 +1,2 @@
 # HTML_class
-A class HTML made with php to dont do code php without need html
+A class HTML made with php, to code php without need html file or tags
